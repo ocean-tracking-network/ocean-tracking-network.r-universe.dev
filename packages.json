@@ -1,0 +1,40 @@
+[
+    {
+        "package": "mort",
+        "url": "rosieluain/mort"
+    },
+    {
+        "package": "aniMotum",
+        "url": "https://github.com/ianjonsen/aniMotum"
+    },
+    {
+        "package": "remora",
+        "url": "https://github.com/imos-AnimalTracking/remora"
+    },
+
+    {
+        "package": "actel",
+        "url": "https://github.com/hugomflavio/actel"
+    },
+
+    {
+        "package": "matos",
+        "url": "https://github.com/mhpob/matos"
+    },
+    {
+        "package": "otndo",
+        "url": "https://github.com/mhpob/otndo"
+    },
+    {
+        "package": "miscYAPS",
+        "url": "https://github.com/robertlennox/miscYAPS"
+    },
+    {
+        "package": "glatos",
+        "url": "https://github.com/ocean-tracking-network/glatos"
+    },
+    {
+        "package": "baktoft/YAPS"
+        "url": "https://github.com/baktoft/yaps"
+    }
+]
