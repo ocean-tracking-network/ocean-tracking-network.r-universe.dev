@@ -11,7 +11,10 @@
         "package": "remora",
         "url": "https://github.com/imos-AnimalTracking/remora"
     },
-
+    {
+        "package": "surimi",
+        "url": "https://github.com/ocean-tracking-network/surimi"
+    },
     {
         "package": "actel",
         "url": "https://github.com/hugomflavio/actel"
