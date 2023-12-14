@@ -16,6 +16,10 @@
         "url": "https://github.com/ocean-tracking-network/surimi"
     },
     {
+        "package": "movepub",
+        "url": "https://github.com/inbo/movepub"
+    },
+    {
         "package": "actel",
         "url": "https://github.com/hugomflavio/actel"
     },
