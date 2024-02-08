@@ -43,5 +43,9 @@
     {
         "package": "yaps",
         "url": "https://github.com/baktoft/yaps"
+    },
+    {
+        "package": "rvdat",
+        "url": "https://github.com/mhpob/rvdat"
     }
 ]
