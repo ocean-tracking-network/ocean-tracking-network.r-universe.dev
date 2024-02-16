@@ -22,6 +22,10 @@
     {
         "package": "actel",
         "url": "https://github.com/hugomflavio/actel"
+    }, 
+    {
+        "package": "RSP",
+        "url": "https://github.com/yuriniella/RSP"
     },
 
     {
