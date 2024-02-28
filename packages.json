@@ -4,6 +4,10 @@
         "url": "rosieluain/mort"
     },
     {
+        "package": "diveMove",
+        "url": "https://github.com/spluque/diveMove"
+    },
+    {
         "package": "aniMotum",
         "url": "https://github.com/ianjonsen/aniMotum"
     },
