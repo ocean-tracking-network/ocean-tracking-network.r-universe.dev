@@ -37,6 +37,14 @@
         "url": "https://github.com/mhpob/matos"
     },
     {
+        "package": "moveHMM",
+        "url": "https://github.com/TheoMichelot/moveHMM"
+    },
+    {
+        "package": "momentuHMM",
+        "url": "https://github.com/bmcclintock/momentuHMM"
+    },
+    {
         "package": "otndo",
         "url": "https://github.com/mhpob/otndo"
     },
