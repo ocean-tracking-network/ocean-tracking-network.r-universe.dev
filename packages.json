@@ -30,8 +30,11 @@
     {
         "package": "RSP",
         "url": "https://github.com/yuriniella/RSP"
+    },    
+    {
+        "package": "sporeg",
+        "url": "https://github.com/mebowers5/sporeg/"
     },
-
     {
         "package": "matos",
         "url": "https://github.com/mhpob/matos"
