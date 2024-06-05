@@ -66,5 +66,9 @@
     {
         "package": "rvdat",
         "url": "https://github.com/mhpob/rvdat"
-    }
+    },
+    {
+        "package": "telemetar",
+        "url": "https://github.com/mhpob/telemetar"
+    },
 ]
