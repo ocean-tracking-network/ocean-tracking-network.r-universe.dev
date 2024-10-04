@@ -70,5 +70,9 @@
     {
         "package": "telemetar",
         "url": "https://github.com/mhpob/telemetar"
+    },
+    {
+        "package": "wcUtils",
+        "url": "https://github.com/noaa-afsc/wcUtils"
     }
 ]
