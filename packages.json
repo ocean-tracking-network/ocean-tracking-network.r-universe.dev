@@ -72,6 +72,10 @@
         "url": "https://github.com/mhpob/telemetar"
     },
     {
+        "package": "sporeg",
+        "url": "https://github.com/mebowers5/sporeg"
+    },
+    {
         "package": "wcUtils",
         "url": "https://github.com/noaa-afsc/wcUtils"
     }
