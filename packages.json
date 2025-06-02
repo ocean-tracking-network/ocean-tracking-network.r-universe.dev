@@ -72,6 +72,10 @@
         "url": "https://github.com/mhpob/telemetar"
     },
     {
+        "package": "TelemetrySpace",
+        "url": "https://github.com/meganwinton/TelemetrySpace"
+    },
+    {
         "package": "sporeg",
         "url": "https://github.com/mebowers5/sporeg"
     },
