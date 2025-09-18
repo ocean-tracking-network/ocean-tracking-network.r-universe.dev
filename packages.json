@@ -36,6 +36,10 @@
         "url": "https://github.com/mebowers5/sporeg/"
     },
     {
+        "package": "kaltoa",
+        "url": "https://gitlab.com/RTbecard/kaltoa"
+    },
+    {
         "package": "matos",
         "url": "https://github.com/mhpob/matos"
     },
