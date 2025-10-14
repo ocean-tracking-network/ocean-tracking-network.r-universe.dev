@@ -12,6 +12,10 @@
         "url": "https://github.com/ianjonsen/aniMotum"
     },
     {
+        "package": "ArgosQC",
+        "url": "https://github.com/ianjonsen/ArgosQC"
+    },
+    {
         "package": "remora",
         "url": "https://github.com/imos-AnimalTracking/remora"
     },
