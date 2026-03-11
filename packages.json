@@ -90,5 +90,9 @@
     {
         "package": "wcUtils",
         "url": "https://github.com/noaa-afsc/wcUtils"
+    },
+    {
+        "package": "pathroutr",
+        "url": "https://github.com/mhpob/pathroutr"
     }
 ]
