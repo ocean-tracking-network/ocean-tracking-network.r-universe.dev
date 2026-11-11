@@ -44,10 +44,6 @@
         "url": "https://gitlab.com/RTbecard/kaltoa"
     },
     {
-        "package": "matos",
-        "url": "https://github.com/mhpob/matos"
-    },
-    {
         "package": "moveHMM",
         "url": "https://github.com/TheoMichelot/moveHMM"
     },
@@ -58,6 +54,10 @@
     {
         "package": "otndo",
         "url": "https://github.com/mhpob/otndo"
+    },
+    {
+        "package": "otndata",
+        "url": "https://github.com/trackyverse/otndata"
     },
     {
         "package": "miscYAPS",
@@ -76,10 +76,6 @@
         "url": "https://github.com/mhpob/rvdat"
     },
     {
-        "package": "telemetar",
-        "url": "https://github.com/mhpob/telemetar"
-    },
-    {
         "package": "TelemetrySpace",
         "url": "https://github.com/trackyverse/TelemetrySpace"
     },
@@ -93,6 +89,6 @@
     },
     {
         "package": "pathroutr",
-        "url": "https://github.com/mhpob/pathroutr"
+        "url": "https://github.com/jmlondon/pathroutr"
     }
 ]
